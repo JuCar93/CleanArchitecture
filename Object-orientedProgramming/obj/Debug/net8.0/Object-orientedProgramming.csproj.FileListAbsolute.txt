@@ -1,0 +1,14 @@
+C:\Source\CleanArchitecture\Object-orientedProgramming\bin\Debug\net8.0\Object-orientedProgramming.exe
+C:\Source\CleanArchitecture\Object-orientedProgramming\bin\Debug\net8.0\Object-orientedProgramming.deps.json
+C:\Source\CleanArchitecture\Object-orientedProgramming\bin\Debug\net8.0\Object-orientedProgramming.runtimeconfig.json
+C:\Source\CleanArchitecture\Object-orientedProgramming\bin\Debug\net8.0\Object-orientedProgramming.dll
+C:\Source\CleanArchitecture\Object-orientedProgramming\bin\Debug\net8.0\Object-orientedProgramming.pdb
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.AssemblyInfoInputs.cache
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.AssemblyInfo.cs
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.csproj.CoreCompileInputs.cache
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.dll
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\refint\Object-orientedProgramming.dll
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.pdb
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.genruntimeconfig.cache
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\ref\Object-orientedProgramming.dll

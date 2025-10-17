@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353E46D0-F503-473A-93B3-77E89131A000}|Object-orientedProgramming\\Object-orientedProgramming.csproj|c:\\source\\cleanarchitecture\\object-orientedprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{353E46D0-F503-473A-93B3-77E89131A000}|Object-orientedProgramming\\Object-orientedProgramming.csproj|solutionrelative:object-orientedprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353E46D0-F503-473A-93B3-77E89131A000}|Object-orientedProgramming\\Object-orientedProgramming.csproj|c:\\source\\cleanarchitecture\\object-orientedprogramming\\object-orientedprogramming.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{353E46D0-F503-473A-93B3-77E89131A000}|Object-orientedProgramming\\Object-orientedProgramming.csproj|solutionrelative:object-orientedprogramming\\object-orientedprogramming.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3306DC1-34AF-4C80-BB5F-92B40FD6A904}|StructuresProgramming\\StructuresProgramming.csproj|c:\\source\\cleanarchitecture\\structuresprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3306DC1-34AF-4C80-BB5F-92B40FD6A904}|StructuresProgramming\\StructuresProgramming.csproj|solutionrelative:structuresprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object-orientedProgramming",
+              "DocumentMoniker": "C:\\Source\\CleanArchitecture\\Object-orientedProgramming\\Object-orientedProgramming.csproj",
+              "RelativeDocumentMoniker": "Object-orientedProgramming\\Object-orientedProgramming.csproj",
+              "ToolTip": "C:\\Source\\CleanArchitecture\\Object-orientedProgramming\\Object-orientedProgramming.csproj",
+              "RelativeToolTip": "Object-orientedProgramming\\Object-orientedProgramming.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-17T19:38:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\CleanArchitecture\\Object-orientedProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "Object-orientedProgramming\\Program.cs",
+              "ToolTip": "C:\\Source\\CleanArchitecture\\Object-orientedProgramming\\Program.cs*",
+              "RelativeToolTip": "Object-orientedProgramming\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:23:34.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\CleanArchitecture\\StructuresProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "StructuresProgramming\\Program.cs",
+              "ToolTip": "C:\\Source\\CleanArchitecture\\StructuresProgramming\\Program.cs",
+              "RelativeToolTip": "StructuresProgramming\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T19:11:42.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

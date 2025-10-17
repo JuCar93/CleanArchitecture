@@ -1,0 +1,14 @@
+C:\Source\CleanArchitecture\StructuresProgramming\bin\Debug\net8.0\StructuresProgramming.exe
+C:\Source\CleanArchitecture\StructuresProgramming\bin\Debug\net8.0\StructuresProgramming.deps.json
+C:\Source\CleanArchitecture\StructuresProgramming\bin\Debug\net8.0\StructuresProgramming.runtimeconfig.json
+C:\Source\CleanArchitecture\StructuresProgramming\bin\Debug\net8.0\StructuresProgramming.dll
+C:\Source\CleanArchitecture\StructuresProgramming\bin\Debug\net8.0\StructuresProgramming.pdb
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\StructuresProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\StructuresProgramming.AssemblyInfoInputs.cache
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\StructuresProgramming.AssemblyInfo.cs
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\StructuresProgramming.csproj.CoreCompileInputs.cache
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\StructuresProgramming.dll
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\refint\StructuresProgramming.dll
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\StructuresProgramming.pdb
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\StructuresProgramming.genruntimeconfig.cache
+C:\Source\CleanArchitecture\StructuresProgramming\obj\Debug\net8.0\ref\StructuresProgramming.dll
