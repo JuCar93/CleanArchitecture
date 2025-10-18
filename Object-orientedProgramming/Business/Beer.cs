@@ -1,9 +1,13 @@
 ﻿
 
+using System.ComponentModel;
+
 namespace Object_orientedProgramming.Business
 {
-    public class Beer
+    public class Beer : Drink
     {
+
+        private const string Category ="Cerveza";
         private decimal _alcohol; //Campo de respaldo del metodo Value y solo visible para esta clase, ni si quiera las clases que heredan pueden acceder a el
         public string Name { get; set; }
         protected decimal Price { get; set; } //Pueden acceder aa el esta clase y las clases hijas de esta, pero no clases externas
@@ -32,7 +36,8 @@ namespace Object_orientedProgramming.Business
             }
         }
       
-        public Beer(string name, decimal price, decimal alcohol)
+        public Beer(string name, decimal price, decimal alcohol,int quantity)
+            :base(quantity)
         {
             this.Name = name;
             this.Price = price;
@@ -57,6 +62,9 @@ namespace Object_orientedProgramming.Business
             return number +".- "+ GetInfo();
         }
 
-
+        public override string GetCategory()
+        {
+            return Category;
+        }
     }
 }

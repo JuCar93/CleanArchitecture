@@ -27,3 +27,4 @@ C:\Users\Carlos\source\repos\CleanArchitecture\Object-orientedProgramming\obj\De
 C:\Users\Carlos\source\repos\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.pdb
 C:\Users\Carlos\source\repos\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.genruntimeconfig.cache
 C:\Users\Carlos\source\repos\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\ref\Object-orientedProgramming.dll
+C:\Source\CleanArchitecture\Object-orientedProgramming\obj\Debug\net8.0\Object-orientedProgramming.sourcelink.json
