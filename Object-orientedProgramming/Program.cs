@@ -21,13 +21,58 @@ var delirium = new ExpiringBeer("Delirium", 4, 8, new DateTime(2024, 12, 01),355
 
 Drink drink = new Wine(500);
 
-Show(drink);
+//Show(drink);
 
 
 drink = new Beer("Corona", 23, 6, 355);
-Show(drink);
+//Show(drink);
 
-Show(erdingerBeer);
+//Show(erdingerBeer);
 void Show(Drink drink)
     => Console.WriteLine(drink.GetCategory());
 
+
+
+SendSome(erdingerBeer);
+SendSome(delirium);
+
+
+var service = new Service(100, 10);
+
+
+service.GetPrice();
+
+
+//Aqui vamos a listar conceptos que pueden ser vendibles con un array y que  inplementan el metodo Isellable
+
+
+ISalable[] concepts = [
+    erdingerBeer,
+    delirium,
+    service // aqui entra todo tipo de clases que son Vendibles sin importar que no se trate de lo mismo
+    
+    ];
+
+
+
+Console.WriteLine(GetTotal(concepts));
+
+//SendSome(drink); En este caso no se puede usar drink, que aunque este inicializado como Beer desde un principio se pone que es un objeto Drink, el cual no implementa a ISend
+
+
+void SendSome(ISend some) // Este metodo recibe un pbjeto de la interface ISend
+{
+    some.Send(); //Cualquier clase que implemente ISend tiene un metodo implementado llamado Send();
+}
+
+
+decimal GetTotal(ISalable[] concepts)
+{
+    decimal total = 0;
+    foreach (var item in concepts)
+    {
+        total += item.GetPrice();
+    }
+
+    return total;
+}

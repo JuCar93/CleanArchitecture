@@ -4,20 +4,21 @@ using System.ComponentModel;
 
 namespace Object_orientedProgramming.Business
 {
-    public class Beer : Drink
+    public class Beer : Drink, ISalable, ISend
     {
 
-        private const string Category ="Cerveza";
+        private const string Category = "Cerveza";
         private decimal _alcohol; //Campo de respaldo del metodo Value y solo visible para esta clase, ni si quiera las clases que heredan pueden acceder a el
         public string Name { get; set; }
         protected decimal Price { get; set; } //Pueden acceder aa el esta clase y las clases hijas de esta, pero no clases externas
 
-        public string SAlcohol {
+        public string SAlcohol
+        {
             get
             {
                 return "Alcohol: " + _alcohol.ToString();
             }
-        
+
         }
 
         public decimal Alcohol
@@ -35,9 +36,9 @@ namespace Object_orientedProgramming.Business
                 _alcohol = value;
             }
         }
-      
-        public Beer(string name, decimal price, decimal alcohol,int quantity)
-            :base(quantity)
+
+        public Beer(string name, decimal price, decimal alcohol, int quantity)
+            : base(quantity)
         {
             this.Name = name;
             this.Price = price;
@@ -59,12 +60,18 @@ namespace Object_orientedProgramming.Business
 
         public string GetInfo(int number)
         {
-            return number +".- "+ GetInfo();
+            return number + ".- " + GetInfo();
         }
 
         public override string GetCategory()
         {
             return Category;
         }
+
+        public decimal GetPrice()
+            => Price;
+
+        public void Send()
+            => Console.WriteLine("Se envia por correo: " + GetInfo());
     }
 }
